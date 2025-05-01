@@ -1,0 +1,10 @@
+heladeria(1, marbet, 123).
+heladeria(2, gianduia, 123).
+heladeria(3, renato, 123).
+heladeria(4, catania, 123).
+
+locales(1, centro, ['Avellaneda 1241', 'Avellaneda 1000']).
+locales(1, norte, ['Avellaneda 100']).
+locales(2, norte, ['Pueyrredon 123']).
+locales(3, sur, ['Avellaneda 5000']).
+locales(4, centro, ['Pueyrredon 1000', 'Avellaneda 1500']).

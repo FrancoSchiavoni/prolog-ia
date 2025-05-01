@@ -1,0 +1,8 @@
+paciente (dni, nombre,obra social)
+profesional(dni,nombre,especialidad,obra social)
+turno(dnipaciente,dniprofesional,especialidad,fecha,obra social,monto)
+
+
+Ejercicios
+ - Ingresar nombre de paciente y año y listar todas las especialidades SIN REPETIR en que se había atendido ese paciente en ese año.
+ - Mostrar de todos los profesionales de la bbdd, el nombre y la cantidad de turnos donde el monto fuera mayor a 1500.

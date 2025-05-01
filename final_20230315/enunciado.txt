@@ -1,0 +1,8 @@
+No recuerdo exactamente los enunciados., pero era algo asi:
+vehículos(Marca, Precio, Tipo, Estado, [Características], OtrasVariables).
+características(CodCaracter, Descripcion).
+
+Ejercicios
+ - Ingresar dos Precios (max y min) y una lista de códigos de características.
+   Mostrar toda la información de los autos que tienen esas características y están en ese rango de precios. 
+ - Ingresar una característica y un estado y contar cuantos autos cumplían con estos parametros.

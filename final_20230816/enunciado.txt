@@ -1,0 +1,6 @@
+unidades(NroUnidad,Marca,Modelo).
+viajes(NroUnidad,Costo).
+
+Ejercicios
+ - Calcular Total de Viajes para cada Unidad.
+ - Segun lista de Unidades ingresadas, lista las que tengan Viajes mayores a 5000.

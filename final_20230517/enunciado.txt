@@ -1,0 +1,9 @@
+venta(Dni, Descripción, FechaAdquisición, Importe)
+fechaAdquisición como DD-MM-YYYY
+
+Ejercicios
+ - Dado un DNI y un año, mostrar el consumo promedio realizado. Si no hay clientes con ese DNI o no hay consumos para ese año, informar con un mensaje.
+ - Dada la descripción, obtener un listado de DNIs de las personas que compraron dicho producto el año pasado.
+ - Calcular el máximo consumo de una persona ingresando el DNI.
+
+Tuve que usar sub_atom y atom_number.

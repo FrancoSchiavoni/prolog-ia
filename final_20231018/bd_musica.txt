@@ -1,0 +1,29 @@
+artista(1, franco, rock).
+artista(2, juan, rock).
+artista(3, roberto, rock).
+artista(4, sabrina, rock).
+
+
+cancion(900, 1, '20/02/2024', single).
+cancion(901, 1, '20/03/2024', single).
+cancion(100, 1, '20/01/2025', single).
+cancion(101, 1, '20/01/2025', single).
+cancion(102, 1, '20/01/2025', single).
+cancion(103, 1, '20/01/2025', single).
+cancion(110, 2, '20/01/2025', single).
+cancion(111, 2, '20/01/2025', single).
+cancion(112, 2, '20/01/2025', single).
+cancion(113, 3, '20/01/2025', single).
+cancion(114, 4, '20/01/2025', single).
+
+
+usuario(1, franco, masculino, [1,2]).
+usuario(2, juan, masculino, [1,2,3,4]).
+usuario(3, pedro, masculino, [1,2,3,4]).
+
+
+listaReproduccion(5000, 1, rock, [1,2,3]).
+listaReproduccion(5002, 1, rock, [4,5]).
+listaReproduccion(5003, 2, rock, [1,2,3,4,5,6,7]).
+listaReproduccion(5004, 2, rock, [1,2,3,4]).
+

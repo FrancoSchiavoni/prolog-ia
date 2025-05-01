@@ -1,0 +1,14 @@
+artista(idArtista,nombre,otros_datos)
+cancion(idCancion,IdArtista,fecha_lanzamiento, otros_datos)
+usuario(idUsuario,nombre,otros_datos,[Lista_canciones_que_le_gustan])
+listaReproduccion(IdLista,IdUsuario,otros_datos,[Lista_Canciones]
+
+Nota:
+    Un usuario podía tener muchas listas de reproduccion con muchas canciones.
+    Fecha_lanzamiento, tipo DATE: ‘DD/MM/YYYY’
+
+Ejercicios
+ - Dado un año, listar  [] aquellos artistas que hayan lanzado canciones en dicho año. 
+   No podía haber artistas repetidos en la lista.
+ - Mostrar para cada usuario la cantidad de Listas de Reproducción y el promedio de canciones del usuario.
+   (No hacía falta hacer lista).

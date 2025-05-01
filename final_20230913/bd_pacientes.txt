@@ -1,0 +1,16 @@
+profesional(51545738,ariel,dermatologo, mutualyf).
+profesional(22510207,elisabet,nutricionista, mutualyf).
+
+paciente(41636639, franco, swiss).
+
+turno(41636639,51545738,dermatologia,'2025-02-01',mutualyf,1300).
+turno(41636639,51545738,dermatologia,'2025-02-03',mutualyf,1300).
+turno(41636639,51545738,dermatologia,'2025-02-05',mutualyf,1700).
+turno(41636639,5,psicologia,'2025-02-01',mutualyf,1300).
+turno(41636639,22510207,nutricionista,'2025-02-01',mutualyf,1900).
+turno(41636639,22510207,nutricionista,'2025-02-01',mutualyf,1600).
+turno(41636637,51545738,dermatologia,'2025-02-06',mutualyf,2000).
+turno(41636637,51545738,dermatologia,'2025-02-10',mutualyf,1000).
+turno(41636637,51545738,dermatologia,'2025-02-11',mutualyf,5000).
+turno(41636639,51545738,dermatologia,'2024-02-01',mutualyf,1300).
+turno(41636639,51545738,dermatologia,'2024-02-03',mutualyf,1300).
