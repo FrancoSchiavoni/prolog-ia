@@ -1,0 +1,12 @@
+escuela(escuela,nombre,direccion)
+alumno(legajo,escuela,nombre,"no me acuerdo",altura)
+
+Ejercicios
+ - Mostrar los promedios de altura de los alumnos por escuela con el siguiente formato
+    Escuela: XXX
+	Promedio de altura de los alumnos: XXX
+	Escuela: XXX
+	Promedio de altura de los alumnos: XXX
+	Escuela: XXX
+	Promedio de altura de los alumnos: XXX
+ - Mostrar para una escuela ingresada por el usuario, una lista [] de legajos de alumnos que midan menos de 165cm.

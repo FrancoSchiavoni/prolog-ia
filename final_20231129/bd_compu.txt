@@ -1,0 +1,14 @@
+% computadora(id, tipo, precio, stock, [características])
+computadora(1, escritorio, 500, 10, [intel, ram, ssd, windows]).
+computadora(2, portatil, 750, 5, [intel, ram, ssd, windows]).
+computadora(3, escritorio, 400, 2, [amd, ram, hdd, linux]).
+computadora(4, portatil, 600, 7, [intel, ram, ssd, linux]).
+computadora(5, portatil, 850, 3, [apple, ram, ssd, macos]).
+
+% ventas(id, fecha, [idCompusVendidas])
+ventas(100, '2025-03-15', [1, 1]).
+ventas(101, '2025-04-15', [1, 2]).
+ventas(102, '2025-04-16', [2, 4]).
+ventas(103, '2025-04-17', [3, 3, 1]).
+ventas(104, '2025-04-18', [5]).
+ventas(105, '2025-04-19', [2, 5]).

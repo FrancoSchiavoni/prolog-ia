@@ -1,0 +1,7 @@
+camion(Codigo, Modelo, ?,?).
+conductor(Codigo, Nombre_Apellido,Edad,[Camiones]).
+
+Ejercicios
+ - Al ingresar un código de camión y una lista de código conductores, listar  conductores (nombre y apellido) 
+   de esa lista que están habilitados  para manejar ese camión
+ - AL ingresar un código camión, listar todos los conductores que no superen los 30 años y que están habilitados a manejar tal camion

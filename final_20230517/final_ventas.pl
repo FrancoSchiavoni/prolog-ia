@@ -61,7 +61,7 @@ opcion(1):-  writeln('Ingrese Dni: '), read(Dni),
              Cant\=0,
              Prom is Total/Cant,
              writeln('El consumo promedio es: '), writeln(Prom).
-opcion(1):-  writeln('No se encuentra el dni').
+opcion(1):-  writeln('No se encuentra el dni o no tiene ventas').
 
 
 opcion(2):- writeln('Ingrese descripcion: '), read(D),

@@ -1,0 +1,6 @@
+% comision(nro, carrera, turno, [legajos], [notas]) 
+(los legajos y notas van en pila, el primero con el primero y así sucesivamente)
+
+Ejercicios
+ - Ingresar nro comisión y lista de legajos y crear dos listas: una para los inscriptos en esa comisión y otra para los que no
+ - Ingresar nro comisión y mostrar el porcentaje de alumnos aprobados (>=6) en esa comisión

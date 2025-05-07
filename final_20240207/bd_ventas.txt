@@ -1,0 +1,15 @@
+% producto(IdProducto, descripcion, categoria, Kilos).
+producto(1, 'manzana', fruta, 5).
+producto(2, 'pera', fruta, 0).
+producto(3, 'lechuga', verdura, 2).
+producto(4, 'zanahoria', verdura, 7).
+producto(5, 'banana', fruta, 0).
+
+% producto_venta(IdProducto, Fecha, Precio).
+producto_venta(1, "2024-02-01", 1600).
+producto_venta(1, "2024-02-10", 1550).
+producto_venta(1, "2024-03-05", 1650).
+producto_venta(2, "2024-02-03", 1400).
+producto_venta(3, "2024-02-15", 900).
+producto_venta(4, "2024-02-20", 1100).
+producto_venta(5, "2024-02-05", 1200).

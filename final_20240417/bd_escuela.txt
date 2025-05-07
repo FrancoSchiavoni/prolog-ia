@@ -1,0 +1,14 @@
+% escuela(IdEscuela, Nombre, Dirección)
+escuela(1, san_martin, 'Av. Siempreviva 123').
+escuela(2, belgrano, 'Calle Falsa 456').
+escuela(3, sarmiento, 'Ruta 9 Km 20').
+
+% alumno(Legajo, IdEscuela, Nombre, Altura)
+alumno(1001, 1, juan, 170).
+alumno(1002, 1, ana, 160).
+alumno(1003, 1, luis, 180).
+alumno(2001, 2, marta, 158).
+alumno(2002, 2, pedro, 165).
+alumno(2003, 2, julia, 162).
+alumno(3001, 3, nico, 150).
+alumno(3002, 3, tomas, 172).

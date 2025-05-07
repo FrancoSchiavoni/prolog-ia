@@ -1,0 +1,20 @@
+% receptor(id, dni, grupoSanguineo)
+receptor(1, 12345678, a_pos).
+receptor(2, 23456789, o_neg).
+receptor(3, 34567890, b_pos).
+receptor(4, 45678901, ab_pos).
+
+% donante(id, dni, grupoSanguineo)
+donante(1, 56789012, o_neg).
+donante(2, 67890123, a_pos).
+donante(3, 78901234, b_pos).
+donante(4, 89012345, ab_pos).
+donante(5, 90123456, o_neg).
+
+% transfusion(id, idReceptor, fecha, [idDonantes])
+transfusion(1000, 1, '2025-03-10', [1, 2]).
+transfusion(1001, 1, '2025-04-10', [1, 2]).
+transfusion(1002, 2, '2025-04-11', [1, 5]).
+transfusion(1003, 3, '2025-04-15', [3]).
+transfusion(1004, 1, '2025-05-01', [2]).
+transfusion(1005, 4, '2025-05-01', [4, 1]).

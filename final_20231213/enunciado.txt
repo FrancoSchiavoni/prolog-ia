@@ -1,0 +1,7 @@
+receptor(id,dni,grupoSanguineo)
+donante(id,dni,grupoSanguineo)
+transfusion(id,idReceptor,fecha,[idDonantes]).
+
+Ejercicios
+ - Mostrar para un año y mes ingresado por el usuario la cantidad de transfusiones hechas y el promedio de donantes por transfusión
+ - Ingresar DNI donante y devolver una lista y mostrarla q tenga sin repetir los DNI de los receptores a los que dono sangre

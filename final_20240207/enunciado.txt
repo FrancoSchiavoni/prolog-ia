@@ -1,0 +1,9 @@
+producto(IdProducto, descripcion, categoria, Kilos).
+  producto(1, 'manzana', algo, 5).
+producto_venta(IdProducto, Fecha, Precio).
+  producto_venta(1, "2023-07-21", 1500).
+
+Ejercicios
+ - Mostrar precio promedio de un producto ingresando descripción de producto, año y mes ("2024-02").
+ - Ingresar una lista de descripciones y decir si todos tienen stock (hay stock si Kilos > 0).
+   La idea es que se diga si todos los elementos de la lista tienen stock, y no decir uno por uno.

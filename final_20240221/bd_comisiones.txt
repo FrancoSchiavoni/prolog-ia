@@ -1,0 +1,5 @@
+% comision(Nro, Carrera, Turno, [Legajos], [Notas])
+comision(101, sistemas, manana, [1001, 1002, 1003, 1004], [7, 5, 9, 3]).
+comision(102, sistemas, noche, [1005, 1006, 1007], [6, 8, 4]).
+comision(103, industrial, manana, [1008, 1009], [2, 10]).
+comision(104, sistemas, tarde, [1010, 1011, 1012], [6, 6, 6]).

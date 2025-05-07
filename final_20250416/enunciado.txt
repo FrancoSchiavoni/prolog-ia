@@ -1,0 +1,10 @@
+pelicula(IdPelicula,_,_,_,_,_,_) % Estaba en el enunciado, pero no lo usé para la resolución
+persona(DNI,Nombre,Genero,Edad,[IdPelicula])
+
+Ejercicios
+ - Ingresar una edad y una id de película y devolver una lista con los nombres de todas las personas mayores 
+   a dicha edad que hayan visto la película
+ - Ingresar una lista de DNIs y devolver dos listas con aquellas personas que hayan visto más de 5 películas, 
+   una de las listas tiene que ser para las personas de género femenino y otra lista para las personas de género masculino.
+
+Los géneros pueden ser 'femenino' o 'masculino'.

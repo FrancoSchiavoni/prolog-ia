@@ -1,0 +1,11 @@
+% camion(Codigo, Modelo)
+camion(c1, volvo_fh).
+camion(c2, scania_r450).
+camion(c3, mercedes_atego).
+
+% conductor(Codigo, NombreApellido, Edad, [CamionesQuePuedeManejar])
+conductor(1, "Juan Perez", 28, [c1, c3]).
+conductor(2, "Lucia Gomez", 32, [c2]).
+conductor(3, "Carlos Ruiz", 29, [c1, c2, c3]).
+conductor(4, "Ana Torres", 25, [c3]).
+conductor(5, "Mario Díaz", 40, [c1]).
