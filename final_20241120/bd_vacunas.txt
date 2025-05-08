@@ -1,0 +1,5 @@
+persona(1,franco,15,[1,2,4]).
+
+vacunas_por_edad(1,[1,2]).
+vacunas_por_edad(5,[3]).
+vacunas_por_edad(10,[4,5]).

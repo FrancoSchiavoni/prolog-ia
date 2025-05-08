@@ -1,0 +1,7 @@
+persona(idPersona,nombre,edad,[IDs vacunas aplicadas])
+vacuna(IdVacuna,Nombre,CadenaDeFrio)
+vacunas_por_edas(Edad,[Id Vacunas que corresponden])
+
+Enunciado
+ - Dado un id persona y una edad, listar todas las vacunas que le corresponden a esa persona por su edad pero que aún no se aplicó
+ - Dada una edad y un idVacuna, contar cuántas veces esa vacuna fue aplicada en personas menores de eda edad
