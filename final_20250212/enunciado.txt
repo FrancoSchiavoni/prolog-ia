@@ -1,0 +1,11 @@
+destinosTuristicos(Nombre, Distancia, [ActividadesDeportivas], [Comidas]) 
+Nota: [Comidas] lo invente yo por no tener el verdadero contenido de la segunda lista
+
+Ejercicios
+ - Dada una comida, actividad deportiva y distancia, devolver aquellos destinos turísticos que: 
+   * La comida esté en la segunda lista
+   * La actividad deportiva esté en la primera lista
+   * La distancia del destino no supere a la ingresada.
+ - Dado una lista de actividades deportivas, devolver aquellos destinos que matcheen con todas esas actividades.
+
+Mostrar un mensaje si no se encuentra nada en cada punto (pendiente)

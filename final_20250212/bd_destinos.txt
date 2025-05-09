@@ -1,0 +1,15 @@
+destinosTuristicos('Bariloche', 1400, [esqui, trekking, kayak], ['cordero patagonico', chocolate]).
+destinosTuristicos('Mendoza', 870, [senderismo, rafting, ciclismo], [asado, empanadas, vino]).
+destinosTuristicos('Salta', 1150, [esqui, trekking, cabalgata], [locro, empanadas, tamales]).
+destinosTuristicos('El Calafate', 2700, [navegacion, 'trekking sobre hielo'], ['cordero fueguino', trucha]).
+destinosTuristicos('Puerto Iguazu', 1050, [senderismo, 'avistaje de aves'], [mbeyu, chipa, 'piraña']).
+destinosTuristicos('Villa La Angostura', 1380, [kayak, pesca, esqui], ['trucha ahumada', goulash]).
+destinosTuristicos('Mar del Plata', 750, [running, ciclismo,surf, skate, 'futbol playa'], [rabas, milanesa, helado]).
+destinosTuristicos('Cordoba', 400, [running, ciclismo,parapente, senderismo, 'mountain bike'], [choripan, cabrito, alfajores]).
+destinosTuristicos('San Martin de los Andes', 1400, [ski, snowboard, senderismo], ['pasta casera', ahumados]).
+destinosTuristicos('Tandil', 600, [trekking, escalada, pesca], [quesos, salames, picadas]).
+destinosTuristicos('Ushuaia', 3100, [esqui, senderismo, navegacion], [centolla, 'cordero patagonico']).
+destinosTuristicos('Tilcara', 1070, [trekking, fotografia, bicicleta], [humita, tamales, quinua]).
+destinosTuristicos('Villa Carlos Paz', 420, [vela, trekking, 'moto de agua'], [empanadas, asado]).
+destinosTuristicos('Rosario', 0, [running, ciclismo, kayak], [pizza, sandwiches, helado]).
+destinosTuristicos('Pinamar', 740, [running, ciclismo,surf, cuatriciclo, 'beach volley'], [mariscos, pescado, asado]).
